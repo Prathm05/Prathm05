@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Prathm05/Prathm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Prathm, a passionate developer with expertise in various technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### Projects
+- [Project 1](link): A brief description of Project 1, highlighting its purpose and key features.
+- [Project 2](link): A brief description of Project 2, explaining its significance and what it accomplishes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Programming Languages: Python, JavaScript, C++
+- UI/UX technologies: Canva ,Figma
+- Web Technologies: HTML-CSS,Bootstrap
+- Softwares:: LTspice,Multisim Circuit Simulator, Arduino IDE, MS-office,MATLAB,Git,Github.
+
+### Contact
+- [Email](prathmeshtakarde8@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/prathmesh-takarde-4994522a0/)]
+- [Instagram]([https://twitter.com/your-profile](https://instagram.com/prathmesh_t_05))
+
+### Fun Fact
+I love hiking and exploring new trails whenever I get the chance. 🌲🚶‍♂️
+
+Feel free to reach out to me or check out my projects. Let's connect and collaborate!
