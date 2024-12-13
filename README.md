@@ -3,8 +3,8 @@
 I am Prathm, a passionate developer with expertise in various technologies. Welcome to my GitHub profile!
 
 ### Projects
-- [Project 1](link): A brief description of Project 1, highlighting its purpose and key features.
-- [Project 2](link): A brief description of Project 2, explaining its significance and what it accomplishes.
+- [Portfolio chat bot ](link):This project is an interactive portfolio chatbot designed to resemble a WhatsApp chat interface. Built using HTML, CSS, and JavaScript, it provides an engaging way for users to explore information through conversational interactions.
+- [Flipkart Clone](link):This project is a frontend-only clone of the Flipkart e-commerce website, created using plain HTML and CSS. It demonstrates a responsive and visually appealing layout that closely resembles the design of the original platform.
 
 ### Skills
 - Programming Languages: Python, JavaScript, C++
