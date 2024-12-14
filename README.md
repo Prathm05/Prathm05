@@ -14,8 +14,8 @@ I am Prathm, a passionate developer with expertise in various technologies. Welc
 
 ### Contact
 - [Email](prathmeshtakarde8@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/prathmesh-takarde-4994522a0/)]
-- [Instagram]([https://twitter.com/your-profile](https://instagram.com/prathmesh_t_05))
+- [LinkedIn](https://www.linkedin.com/in/prathmesh-takarde-4994522a0/)
+- [Instagram](https://instagram.com/prathmesh_t_05)
 
 ### Fun Fact
 I love hiking and exploring new trails whenever I get the chance. 🌲🚶‍♂️
