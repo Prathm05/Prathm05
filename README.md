@@ -5,7 +5,7 @@ I am Prathmesh, a passionate developer with expertise in various technologies. W
 ### Projects
 - [Portfolio chat bot ](https://prathm05.github.io/Portfolio-Chat-Bot/):This project is an interactive portfolio chatbot designed to resemble a WhatsApp chat interface. Built using HTML, CSS, and JavaScript, it provides an engaging way for users to explore information through conversational interactions.
 - [Flipkart Clone](https://prathm05.github.io/Flipkart-clone/):This project is a frontend-only clone of the Flipkart e-commerce website, created using plain HTML and CSS. It demonstrates a responsive and visually appealing layout that closely resembles the design of the original platform.
-- [Wearnity](https://prathm05.io/wearnity/):Responsive login, signup, and multi-step forgot password system using HTML, CSS, and JavaScript with smooth transitions and real-time validation.
+- [Wearnity](https://prathm05.github.io/Wearnity/):Responsive login, signup, and multi-step forgot password system using HTML, CSS, and JavaScript with smooth transitions and real-time validation.
 Includes dynamic UI updates, modern UI/UX design, and clean code structure with Ionicons integration.
 
 ### Skills
